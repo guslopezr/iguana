@@ -1,0 +1,183 @@
+* {
+    margin: 0px;
+    Padding: 0px;
+}
+
+body {
+    margin: 0px;
+    font-family: 'Raleway', sans-serif;
+    background-color: black;
+}
+
+
+/*sección de título IGUANAS*/
+
+header {
+    color: white;
+    background-color: black;
+    padding: 1vw;
+    height: 59px;
+}
+
+h1 {
+    margin: 0 auto;
+    text-align: center;
+    padding: 0em;
+    border: 0.7em;
+    margin-top: 10px;
+    width: 221px;
+    height: 55px;
+    font-weight: 600;
+}
+
+
+/*fin*/
+
+
+/*Sección Iguana Grande*/
+
+nav {
+    size: 3em;
+    background-color: black;
+    height: 100%;
+}
+
+nav img {
+    size: 4em;
+    align-items: center;
+    width: 1440px;
+    height: 727px;
+    margin: 0%;
+    padding: 0%;
+}
+
+
+/*Fin*/
+
+
+/*sección de texto luego iguana*/
+
+main {
+    background-color: black;
+    margin-top: -5px;
+    size: 3em;
+    height: 30vw;
+}
+
+.mainp {
+    margin: 5vw;
+    margin-top: 7vw;
+    margin-left: 150px;
+    text-align: justify;
+    width: 475px;
+    height: 197px;
+    float: left;
+    color: white;
+}
+
+.mainp p {
+    font-weight: 100;
+}
+
+main img {
+    margin: 5vw;
+    margin-left: 10em;
+    width: 399px;
+    float: left;
+}
+
+
+/*Sección de Caracterísiticas*/
+
+.carac {
+    margin: 0px;
+    padding: 2em;
+    color: white;
+    background-color: #1E1A13;
+    text-align: center;
+    font-size: 1.4em;
+    font-weight: 100;
+}
+
+.caractitulo h2 {
+    width: 356px;
+    text-align: center;
+}
+
+.carac1 {
+    display: inline-block;
+    margin: 3em;
+    text-align: center;
+}
+
+
+/*fin*/
+
+
+/*Sección iguanas en fila*/
+
+.filaiguana {
+    background-color: black;
+}
+
+.filaiguana img {
+    display: inline-block;
+    padding: 1em;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.filaiguana1 {
+    margin-bottom: 0.5em;
+    width: 316px;
+    height: 202px;
+    margin-left: 140px;
+}
+
+.filaiguana2 {
+    margin-bottom: 0.5em;
+    width: 316px;
+    height: 202px;
+    margin-left: 40px;
+}
+
+.filaiguana3 {
+    margin-bottom: 0.5em;
+    width: 316px;
+    height: 202px;
+    margin-left: 40px;
+}
+
+
+/*fin*/
+
+
+/*footer*/
+
+footer {
+    padding: 2em;
+    color: white;
+    background-color: #1E1A13;
+    text-align: center;
+}
+
+footer {
+    padding: 2em;
+    color: white;
+    background-color: #1E1A13;
+}
+
+a:link {
+    color: azure;
+}
+
+a:hover {
+    color: green;
+}
+
+a:visited {
+    color: whitesmoke;
+}
+
+
+/*fin*/
